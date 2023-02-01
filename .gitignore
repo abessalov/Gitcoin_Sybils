@@ -1,0 +1,6 @@
+data
+presentation
+_old
+_develop
+*.ipynb_checkpoints*
+*__pycache__*
