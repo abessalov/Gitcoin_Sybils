@@ -1,6 +1,8 @@
 # Gitcoin Exploratory Data Analysis Bounty to Defend Public Goods Funding from Sybil attacks
 The link: https://gitcoin.co/issue/29675
 
+The links to the Ocean Market report and output: https://market.oceanprotocol.com/profile/0x4AD829A7609357a7D05737526FE13bbDd18427b5
+
 ## Files description
 
 - README.md - challenge and files description.
